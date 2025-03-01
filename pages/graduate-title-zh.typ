@@ -69,7 +69,7 @@
       ],
     )
     block(
-      width: 70%,
+      width: 90%,
       [
         #set text(size: 字号.四号)
         #grid(

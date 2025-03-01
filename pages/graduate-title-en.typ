@@ -68,7 +68,7 @@
       ],
     )
     block(
-      width: 70%,
+      width: 90%,
       [
         #set text(size: 字号.四号)
         #grid(
@@ -79,7 +79,7 @@
           grid.cell(stroke: none)[], grid.cell(stroke: none)[],
         )
         #grid(
-          columns: (auto, 15em),
+          columns: (auto, 22em),
           align: (end, center),
           "Chair:", info.committe-en.at(0),
         )
